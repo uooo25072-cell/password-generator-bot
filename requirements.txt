@@ -1,0 +1,6 @@
+# Runtime dependencies for the Password Generator Bot.
+#
+# Install with:  pip install -r requirements.txt
+
+python-telegram-bot[job-queue]>=21.0,<23.0
+python-dotenv>=1.0.0
